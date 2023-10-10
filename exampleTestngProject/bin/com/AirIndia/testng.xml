@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="from" value="Delhi, Indira Gandhi International Airport, DEL, India"/>
+  <parameter name="to" value="Hyderabad, Rajiv Gandhi International Airport, HYD, India"/>
+  <parameter name="from2" value="New York, New York John F Kennedy International Airport, JFK, United States"/>
+  <parameter name="to2" value="Bangkok, Suvarnabhumi International Airport, BKK, Thailand"/>
+  <parameter name="fname" value="JANANI"/>
+  <parameter name="lname" value="K K"/>
+  <parameter name="email" value="jananikkofficial@gmail.com"/>
+  <parameter name="phno" value="9360804164"/>
+  <parameter name="password" value="Janani@2000"/>
+  <parameter name="email2" value="anu@gmail.com"/>
+  <parameter name="phno2" value="9080219817"/>
+  
+  <test thread-count="5" name="Test">
+    <classes>
+     <class name="com.AirIndia.AskMaharaja"/>
+     <class name="com.AirIndia.AIRINDIAA "/>
+      <class name="com.AirIndia.OnewayPay"/>
+      <class name="com.AirIndia.Roundtrip"/>
+      <class name="com.AirIndia.Hyperlinks"/>
+      <class name="com.AirIndia.Icons"/>
+      <class name="com.AirIndia.Manage"/>
+      <class name="com.AirIndia.Payment"/>
+      <class name="com.AirIndia.login"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

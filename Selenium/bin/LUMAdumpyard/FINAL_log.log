@@ -1,0 +1,653 @@
+02:14:08.318 [main]INFO  class LUMAeCommerce.Logout - Extent report initialized
+02:14:08.326 [main]INFO  class LUMAeCommerce.Logout - New report : Checking Logout Functionality
+02:14:08.953 [main]INFO  class LUMAeCommerce.Logout - Fetched the required sheet from excel file
+02:14:08.954 [main]INFO  class LUMAeCommerce.Logout - Loaded locators from .properties file
+02:14:08.955 [main]INFO  class LUMAeCommerce.Logout - Running Logoutscript
+02:14:14.086 [main]INFO  class LUMAeCommerce.Logout - Opening the browser
+02:14:14.086 [main]INFO  class LUMAeCommerce.Logout - Running Log-In script...
+02:14:23.649 [main]INFO  class LUMAeCommerce.Logout - Closed the browser
+02:14:24.447 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+02:14:24.493 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+02:14:24.495 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+02:14:24.495 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCartscript
+02:14:30.596 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+02:14:30.596 [main]INFO  class LUMAeCommerce.WishlistToCart - Running Log-In script...
+02:14:51.363 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+02:14:51.505 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+02:14:51.610 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+02:14:51.612 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+02:14:51.613 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCartscript
+02:14:58.069 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+02:14:58.070 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running Log-In script...
+02:15:19.018 [main]INFO  class LUMAeCommerce.DeleteFromCart - Closed the browser
+02:15:19.130 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+02:15:19.234 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+02:15:19.238 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+02:15:19.239 [main]INFO  class LUMAeCommerce.Login - Running Loginscript
+02:15:25.276 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+02:15:25.276 [main]INFO  class LUMAeCommerce.Login - Running Log-In script...
+02:15:33.147 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+02:15:33.271 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+02:15:33.368 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+02:15:33.370 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+02:15:33.370 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccountscript
+02:15:39.299 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+02:15:48.721 [main]INFO  class LUMAeCommerce.CreateAccount - Closed the browser
+02:15:48.849 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+02:15:48.944 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+02:15:48.945 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+02:15:48.946 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccountscript
+02:15:54.755 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+02:15:54.756 [main]INFO  class LUMAeCommerce.EditAccount - Running Log-In script...
+02:16:09.402 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+02:16:09.479 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+02:16:09.538 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+02:16:09.539 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+02:16:09.539 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribescript
+02:16:15.531 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+02:16:15.532 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Log-In script...
+02:16:30.109 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+02:16:30.228 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+02:16:30.298 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+02:16:30.300 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+02:16:30.300 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribescript
+02:16:36.682 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+02:16:45.930 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+02:16:46.042 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+02:16:46.124 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+02:16:46.127 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+02:16:46.128 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlistscript
+02:16:52.305 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+02:16:52.306 [main]INFO  class LUMAeCommerce.AddToWishlist - Running Log-In script...
+02:17:09.159 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+02:17:09.270 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+02:17:09.341 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+02:17:09.342 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+02:17:09.343 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCartscript
+02:17:15.356 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+02:17:15.357 [main]INFO  class LUMAeCommerce.AddToCart - Running Log-In script...
+02:17:29.221 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+11:00:20.169 [main]INFO  class LUMAeCommerce.Login - Extent report initialized
+11:00:20.190 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+11:00:21.281 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+11:00:21.282 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+11:00:21.283 [main]INFO  class LUMAeCommerce.Login - Running Login script
+11:00:51.865 [main]INFO  class LUMAeCommerce.Login - Extent report initialized
+11:00:51.875 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+11:00:52.677 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+11:00:52.679 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+11:00:52.679 [main]INFO  class LUMAeCommerce.Login - Running Login script
+11:01:01.501 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+11:01:12.449 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+11:06:35.662 [main]INFO  class LUMAeCommerce.Login - Extent report initialized
+11:06:35.676 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+11:06:36.620 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+11:06:36.622 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+11:06:36.622 [main]INFO  class LUMAeCommerce.Login - Running Login script
+11:06:45.445 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+11:06:52.615 [main]INFO  class LUMAeCommerce.Login - Logged in successfully
+11:06:56.474 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+11:07:31.495 [main]INFO  class LUMAeCommerce.Login - Extent report initialized
+11:07:31.505 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+11:07:32.192 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+11:07:32.193 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+11:07:32.193 [main]INFO  class LUMAeCommerce.Login - Running Login script
+11:07:40.391 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+11:07:47.645 [main]INFO  class LUMAeCommerce.Login - Logged in successfully
+11:07:51.611 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+15:23:03.768 [main]INFO  class LUMAeCommerce.Logout - Extent report initialized
+15:23:03.785 [main]INFO  class LUMAeCommerce.Logout - New report : Checking Logout Functionality
+15:23:04.949 [main]INFO  class LUMAeCommerce.Logout - Fetched the required sheet from excel file
+15:23:04.951 [main]INFO  class LUMAeCommerce.Logout - Loaded locators from .properties file
+15:23:04.951 [main]INFO  class LUMAeCommerce.Logout - Running Logout script
+15:23:18.829 [main]INFO  class LUMAeCommerce.Logout - Opening the browser
+15:23:26.040 [main]INFO  class LUMAeCommerce.Logout - Logged in successfully
+15:23:30.258 [main]INFO  class LUMAeCommerce.Logout - Logged out successfully
+15:23:35.010 [main]INFO  class LUMAeCommerce.Logout - Closed the browser
+15:25:15.781 [main]INFO  class LUMAeCommerce.Logout - Extent report initialized
+15:25:15.797 [main]INFO  class LUMAeCommerce.Logout - New report : Checking Logout Functionality
+15:25:16.647 [main]INFO  class LUMAeCommerce.Logout - Fetched the required sheet from excel file
+15:25:16.649 [main]INFO  class LUMAeCommerce.Logout - Loaded locators from .properties file
+15:25:16.649 [main]INFO  class LUMAeCommerce.Logout - Running Logout script
+15:25:26.031 [main]INFO  class LUMAeCommerce.Logout - Opening the browser
+15:25:34.554 [main]INFO  class LUMAeCommerce.Logout - Logged out successfully
+15:25:39.629 [main]INFO  class LUMAeCommerce.Logout - Closed the browser
+16:09:48.457 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+16:09:48.474 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+16:09:49.510 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+16:09:49.512 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+16:09:49.513 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+16:09:59.192 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+16:10:07.811 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+16:10:17.713 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+16:10:17.726 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+16:10:18.572 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+16:10:18.573 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+16:10:18.573 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+16:10:27.361 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+16:10:42.159 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+16:12:03.544 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+16:12:03.556 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+16:12:04.495 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+16:12:04.496 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+16:12:04.497 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+16:12:13.804 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+16:13:13.807 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+16:13:13.821 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+16:13:14.810 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+16:13:14.812 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+16:13:14.812 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+16:13:23.030 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+16:13:37.476 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+18:42:15.970 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+18:42:15.979 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+18:42:16.473 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+18:42:16.475 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+18:42:16.475 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+18:42:22.645 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+18:43:55.562 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+18:43:55.569 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+18:43:55.986 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+18:43:55.987 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+18:43:55.987 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+18:44:01.731 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+18:54:36.323 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+18:54:36.331 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+18:54:36.740 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+18:54:36.741 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+18:54:36.741 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+18:54:42.138 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+18:56:35.796 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+18:56:35.803 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+18:56:36.223 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+18:56:36.224 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+18:56:36.225 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+18:56:42.138 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+19:03:08.410 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+19:03:08.418 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+19:03:08.863 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+19:03:08.864 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+19:03:08.864 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+19:03:14.782 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+19:03:21.596 [main]INFO  class LUMAeCommerce.Unsubscribe - Failed to validate Unsubscribe
+19:03:24.746 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+19:05:00.339 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+19:05:00.348 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+19:05:00.802 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+19:05:00.803 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+19:05:00.803 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+19:05:06.876 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+19:05:14.519 [main]INFO  class LUMAeCommerce.Unsubscribe - Unsubscribed successfully
+19:05:17.663 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+19:17:19.846 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:17:19.853 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:17:20.278 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:17:20.279 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:17:20.279 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:17:26.497 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:17:40.860 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:18:27.961 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:18:27.968 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:18:28.393 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:18:28.394 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:18:28.394 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:18:34.605 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:18:50.732 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:23:33.573 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:23:33.580 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:23:34.006 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:23:34.007 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:23:34.007 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:23:40.424 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:28:02.705 [main]INFO  class LUMAeCommerce.Unsubscribe - Extent report initialized
+19:28:02.712 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+19:28:03.133 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+19:28:03.134 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+19:28:03.134 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+19:28:09.607 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+19:28:17.211 [main]INFO  class LUMAeCommerce.Unsubscribe - Unsubscribed successfully
+19:28:20.384 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+19:28:57.059 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:28:57.066 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:28:57.519 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:28:57.520 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:28:57.520 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:29:03.929 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:29:14.892 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:29:18.067 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:30:05.707 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:30:05.715 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:30:06.150 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:30:06.151 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:30:06.151 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:30:12.820 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:30:25.299 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:30:28.454 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:32:10.233 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:32:10.239 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:32:10.644 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:32:10.645 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:32:10.645 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:32:17.175 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:32:29.080 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:32:32.220 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:35:00.068 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:35:00.075 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:35:00.492 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:35:00.493 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:35:00.493 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:35:07.229 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:35:19.402 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:35:22.559 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:37:06.068 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:37:06.075 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:37:06.481 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:37:06.482 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:37:06.482 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:37:12.875 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:37:25.134 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:37:28.289 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:40:17.042 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:40:17.049 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:40:17.441 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:40:17.442 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:40:17.442 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:40:23.777 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:40:36.583 [main]INFO  class LUMAeCommerce.Subscribe - Failed to validate Subscription
+19:40:39.749 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+19:42:30.429 [main]INFO  class LUMAeCommerce.Subscribe - Extent report initialized
+19:42:30.435 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+19:42:30.854 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+19:42:30.854 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+19:42:30.855 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+19:42:38.727 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+19:42:50.855 [main]INFO  class LUMAeCommerce.Subscribe - Subscribed successfully
+19:42:54.001 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+20:52:45.763 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+20:52:45.771 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+20:52:46.266 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+20:52:46.267 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+20:52:46.268 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+20:52:53.368 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+20:53:04.868 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+21:07:56.459 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+21:07:56.466 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+21:07:56.880 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+21:07:56.881 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+21:07:56.881 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+21:08:02.348 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+21:11:16.755 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+21:11:16.762 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+21:11:17.167 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+21:11:17.167 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+21:11:17.168 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+21:11:22.433 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+21:11:32.429 [main]INFO  class LUMAeCommerce.AddToCart - Item added to cart successfully
+21:11:35.640 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+21:28:51.119 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+21:28:51.126 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+21:28:51.533 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+21:28:51.534 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+21:28:51.534 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+21:28:57.139 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+21:29:09.394 [main]INFO  class LUMAeCommerce.AddToWishlist - Failed to validate 'Add to wishlist'
+21:29:12.570 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+21:31:05.686 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+21:31:05.694 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+21:31:06.212 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+21:31:06.214 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+21:31:06.214 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+21:31:11.775 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+21:31:24.498 [main]INFO  class LUMAeCommerce.AddToWishlist - Failed to validate 'Add to wishlist'
+21:31:27.654 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+21:32:52.986 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+21:32:52.993 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+21:32:53.436 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+21:32:53.436 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+21:32:53.436 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+21:32:58.982 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+21:33:11.148 [main]INFO  class LUMAeCommerce.AddToWishlist - Failed to validate 'Add to wishlist'
+21:33:14.330 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+11:21:06.602 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+11:21:06.630 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+11:21:08.293 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+11:21:08.296 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+11:21:08.297 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+11:21:22.661 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+11:21:38.960 [main]INFO  class LUMAeCommerce.AddToWishlist - Failed to validate 'Add to wishlist'
+11:21:42.236 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+11:42:34.937 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+11:42:34.949 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+11:42:35.795 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+11:42:35.797 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+11:42:35.798 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+11:42:48.517 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+11:43:05.046 [main]INFO  class LUMAeCommerce.AddToWishlist - Failed to validate 'Add to wishlist'
+11:43:08.587 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+11:57:07.334 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+11:57:07.348 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+11:57:08.318 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+11:57:08.319 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+11:57:08.319 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+11:57:23.191 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+11:57:40.324 [main]INFO  class LUMAeCommerce.AddToCart - Item added to cart successfully
+11:57:43.678 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+12:04:08.827 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+12:04:08.844 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+12:04:09.626 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+12:04:09.627 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+12:04:09.627 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+12:04:23.835 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+12:11:35.605 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+12:11:35.622 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+12:11:36.330 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+12:11:36.331 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+12:11:36.332 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+12:12:11.287 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+12:16:47.465 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+12:16:47.478 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+12:16:48.424 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+12:16:48.426 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+12:16:48.426 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+12:17:00.589 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+12:17:18.728 [main]INFO  class LUMAeCommerce.AddToCart - Item added to cart successfully
+12:17:22.104 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+12:25:18.153 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+12:25:18.168 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+12:25:19.062 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+12:25:19.063 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+12:25:19.063 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+12:25:33.088 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+12:29:39.682 [main]INFO  class LUMAeCommerce.AddToWishlist - Extent report initialized
+12:29:39.708 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+12:29:40.648 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+12:29:40.649 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+12:29:40.650 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+12:29:49.759 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+12:30:08.416 [main]INFO  class LUMAeCommerce.AddToWishlist - Item added to Wishlist successfully
+12:30:11.704 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+12:37:34.933 [main]INFO  class LUMAeCommerce.CreateAccount - Extent report initialized
+12:37:34.945 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+12:37:35.899 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+12:37:35.900 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+12:37:35.900 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccount script
+12:37:45.065 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+12:37:53.793 [main]INFO  class LUMAeCommerce.CreateAccount - Closed the browser
+12:44:54.972 [main]INFO  class LUMAeCommerce.CreateAccount - Extent report initialized
+12:44:54.986 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+12:44:55.841 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+12:44:55.843 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+12:44:55.843 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccount script
+12:45:05.133 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+12:46:28.145 [main]INFO  class LUMAeCommerce.CreateAccount - Extent report initialized
+12:46:28.161 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+12:46:28.973 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+12:46:28.974 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+12:46:28.974 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccount script
+12:46:38.140 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+12:46:46.669 [main]INFO  class LUMAeCommerce.CreateAccount - Account created successfully
+12:46:49.899 [main]INFO  class LUMAeCommerce.CreateAccount - Closed the browser
+12:59:42.221 [main]INFO  class LUMAeCommerce.DeleteFromCart - Extent report initialized
+12:59:42.235 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+12:59:43.088 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+12:59:43.090 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+12:59:43.090 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCart script
+12:59:52.380 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+13:17:37.202 [main]INFO  class LUMAeCommerce.DeleteFromCart - Extent report initialized
+13:17:37.214 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+13:17:38.007 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+13:17:38.008 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+13:17:38.009 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCart script
+13:17:46.706 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+13:18:06.501 [main]INFO  class LUMAeCommerce.DeleteFromCart - Logged in successfully
+13:18:09.885 [main]INFO  class LUMAeCommerce.DeleteFromCart - Closed the browser
+13:19:26.273 [main]INFO  class LUMAeCommerce.DeleteFromCart - Extent report initialized
+13:19:26.293 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+13:19:27.397 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+13:19:27.399 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+13:19:27.399 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCart script
+13:19:36.313 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+13:19:55.755 [main]INFO  class LUMAeCommerce.DeleteFromCart - Item Deleted from cart successfully
+13:19:59.095 [main]INFO  class LUMAeCommerce.DeleteFromCart - Closed the browser
+13:21:11.659 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:21:11.671 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:21:12.440 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:21:12.442 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:21:12.442 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:21:22.083 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:21:37.069 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+13:26:26.419 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:26:26.430 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:26:27.345 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:26:27.347 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:26:27.347 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:26:40.008 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:26:51.361 [main]INFO  class LUMAeCommerce.EditAccount - Failed to validate 'Edit account'
+13:26:54.718 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+13:27:41.069 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:27:41.096 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:27:41.926 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:27:41.928 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:27:41.928 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:27:51.505 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:28:03.981 [main]INFO  class LUMAeCommerce.EditAccount - Failed to validate 'Edit account'
+13:28:07.317 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+13:28:51.410 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:28:51.428 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:28:52.263 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:28:52.265 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:28:52.265 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:29:02.450 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:29:14.143 [main]INFO  class LUMAeCommerce.EditAccount - Failed to validate 'Edit account'
+13:29:17.499 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+13:31:18.654 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:31:18.668 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:31:19.898 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:31:19.901 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:31:19.902 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:31:30.550 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:32:09.610 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+13:32:09.645 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:32:10.699 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:32:10.700 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:32:10.701 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:32:20.357 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:32:33.980 [main]INFO  class LUMAeCommerce.EditAccount - Account edited successfully
+13:32:37.275 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+13:34:32.778 [main]INFO  class LUMAeCommerce.WishlistToCart - Extent report initialized
+13:34:32.800 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:34:33.571 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:34:33.573 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:34:33.573 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:34:42.940 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:35:02.198 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+13:40:39.925 [main]INFO  class LUMAeCommerce.WishlistToCart - Extent report initialized
+13:40:39.940 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:40:40.787 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:40:40.789 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:40:40.789 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:40:49.733 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:41:08.420 [main]INFO  class LUMAeCommerce.WishlistToCart - Failed to validate logout
+13:41:11.780 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+13:46:10.301 [main]INFO  class LUMAeCommerce.WishlistToCart - Extent report initialized
+13:46:10.312 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:46:11.035 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:46:11.036 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:46:11.037 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:46:21.555 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:49:40.973 [main]INFO  class LUMAeCommerce.WishlistToCart - Extent report initialized
+13:49:40.983 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:49:41.821 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:49:41.823 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:49:41.823 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:49:49.925 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:50:10.435 [main]INFO  class LUMAeCommerce.WishlistToCart - Logged out successfully
+13:50:13.684 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+13:52:40.813 [main]INFO  class LUMAeCommerce.WishlistToCart - Extent report initialized
+13:52:40.827 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:52:41.960 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:52:41.962 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:52:41.962 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:52:52.389 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:53:10.485 [main]INFO  class LUMAeCommerce.WishlistToCart - Product successfully moved from wishlist to cart
+13:53:13.728 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+13:53:52.807 [main]INFO  class LUMAeCommerce.CreateAccount - Extent report initialized
+13:53:52.819 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+13:53:53.541 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+13:53:53.542 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+13:53:53.542 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccount script
+13:54:03.121 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+13:54:11.109 [main]INFO  class LUMAeCommerce.CreateAccount - Account created successfully
+13:54:14.402 [main]INFO  class LUMAeCommerce.CreateAccount - Closed the browser
+13:54:15.082 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+13:54:15.143 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+13:54:15.144 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+13:54:15.144 [main]INFO  class LUMAeCommerce.Login - Running Login script
+13:54:22.027 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+13:54:28.501 [main]INFO  class LUMAeCommerce.Login - Logged in successfully
+13:54:32.152 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+13:54:32.221 [main]INFO  class LUMAeCommerce.Logout - New report : Checking Logout Functionality
+13:54:32.275 [main]INFO  class LUMAeCommerce.Logout - Fetched the required sheet from excel file
+13:54:32.278 [main]INFO  class LUMAeCommerce.Logout - Loaded locators from .properties file
+13:54:32.279 [main]INFO  class LUMAeCommerce.Logout - Running Logout script
+13:54:38.791 [main]INFO  class LUMAeCommerce.Logout - Opening the browser
+13:54:46.641 [main]INFO  class LUMAeCommerce.Logout - Logged out successfully
+13:54:50.602 [main]INFO  class LUMAeCommerce.Logout - Closed the browser
+13:54:50.719 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+13:54:50.781 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+13:54:50.782 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+13:54:50.783 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+13:54:57.554 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+13:55:07.178 [main]INFO  class LUMAeCommerce.Unsubscribe - Unsubscribed successfully
+13:55:10.374 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+13:55:10.488 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+13:55:10.548 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+13:55:10.549 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+13:55:10.550 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+13:55:17.593 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+13:55:30.868 [main]INFO  class LUMAeCommerce.Subscribe - Subscribed successfully
+13:55:34.189 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+13:55:34.305 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+13:55:34.385 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+13:55:34.387 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+13:55:34.387 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+13:55:41.749 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+13:55:45.522 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+13:55:45.570 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+13:55:45.572 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+13:55:45.572 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+13:55:53.503 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+13:56:06.340 [main]INFO  class LUMAeCommerce.AddToCart - Item added to cart successfully
+13:56:09.623 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
+13:56:09.725 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+13:56:09.768 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+13:56:09.770 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+13:56:09.770 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+13:56:16.793 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+13:56:33.637 [main]INFO  class LUMAeCommerce.AddToWishlist - Item added to Wishlist successfully
+13:56:36.836 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+13:56:36.904 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+13:56:36.947 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+13:56:36.949 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+13:56:36.949 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+13:56:43.758 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+13:57:02.480 [main]INFO  class LUMAeCommerce.WishlistToCart - Product successfully moved from wishlist to cart
+13:57:05.744 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+13:57:05.822 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+13:57:05.860 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+13:57:05.861 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+13:57:05.862 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCart script
+13:57:12.263 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+13:57:31.951 [main]INFO  class LUMAeCommerce.DeleteFromCart - Item Deleted from cart successfully
+13:57:35.244 [main]INFO  class LUMAeCommerce.DeleteFromCart - Closed the browser
+14:04:09.044 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+14:04:09.071 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+14:04:10.027 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+14:04:10.029 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+14:04:10.030 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+14:04:19.417 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+14:05:55.892 [main]INFO  class LUMAeCommerce.EditAccount - Extent report initialized
+14:05:55.902 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+14:05:56.798 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+14:05:56.799 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+14:05:56.800 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+14:06:05.447 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+14:06:19.098 [main]INFO  class LUMAeCommerce.EditAccount - Account edited successfully
+14:06:22.499 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+14:08:12.619 [main]INFO  class LUMAeCommerce.CreateAccount - Extent report initialized
+14:08:12.631 [main]INFO  class LUMAeCommerce.CreateAccount - New report : Checking CreateAccount Functionality
+14:08:13.787 [main]INFO  class LUMAeCommerce.CreateAccount - Fetched the required sheet from excel file
+14:08:13.789 [main]INFO  class LUMAeCommerce.CreateAccount - Loaded locators from .properties file
+14:08:13.790 [main]INFO  class LUMAeCommerce.CreateAccount - Running CreateAccount script
+14:08:22.928 [main]INFO  class LUMAeCommerce.CreateAccount - Opening the browser
+14:08:32.261 [main]INFO  class LUMAeCommerce.CreateAccount - Account created successfully
+14:08:35.846 [main]INFO  class LUMAeCommerce.CreateAccount - Closed the browser
+14:08:36.421 [main]INFO  class LUMAeCommerce.Login - New report : Checking Login Functionality
+14:08:36.471 [main]INFO  class LUMAeCommerce.Login - Fetched the required sheet from excel file
+14:08:36.472 [main]INFO  class LUMAeCommerce.Login - Loaded locators from .properties file
+14:08:36.473 [main]INFO  class LUMAeCommerce.Login - Running Login script
+14:08:44.341 [main]INFO  class LUMAeCommerce.Login - Opening the browser
+14:08:50.847 [main]INFO  class LUMAeCommerce.Login - Logged in successfully
+14:08:54.826 [main]INFO  class LUMAeCommerce.Login - Closed the browser
+14:08:54.970 [main]INFO  class LUMAeCommerce.Logout - New report : Checking Logout Functionality
+14:08:55.071 [main]INFO  class LUMAeCommerce.Logout - Fetched the required sheet from excel file
+14:08:55.074 [main]INFO  class LUMAeCommerce.Logout - Loaded locators from .properties file
+14:08:55.074 [main]INFO  class LUMAeCommerce.Logout - Running Logout script
+14:09:03.000 [main]INFO  class LUMAeCommerce.Logout - Opening the browser
+14:09:10.955 [main]INFO  class LUMAeCommerce.Logout - Logged out successfully
+14:09:15.575 [main]INFO  class LUMAeCommerce.Logout - Closed the browser
+14:09:15.760 [main]INFO  class LUMAeCommerce.Unsubscribe - New report : Checking Unsubscribe Functionality
+14:09:15.822 [main]INFO  class LUMAeCommerce.Unsubscribe - Fetched the required sheet from excel file
+14:09:15.825 [main]INFO  class LUMAeCommerce.Unsubscribe - Loaded locators from .properties file
+14:09:15.825 [main]INFO  class LUMAeCommerce.Unsubscribe - Running Unsubscribe script
+14:09:23.512 [main]INFO  class LUMAeCommerce.Unsubscribe - Opening the browser
+14:09:35.011 [main]INFO  class LUMAeCommerce.Unsubscribe - Unsubscribed successfully
+14:09:38.794 [main]INFO  class LUMAeCommerce.Unsubscribe - Closed the browser
+14:09:38.948 [main]INFO  class LUMAeCommerce.Subscribe - New report : Checking Subscribe Functionality
+14:09:39.018 [main]INFO  class LUMAeCommerce.Subscribe - Fetched the required sheet from excel file
+14:09:39.020 [main]INFO  class LUMAeCommerce.Subscribe - Loaded locators from .properties file
+14:09:39.020 [main]INFO  class LUMAeCommerce.Subscribe - Running Subscribe script
+14:09:46.659 [main]INFO  class LUMAeCommerce.Subscribe - Opening the browser
+14:10:00.948 [main]INFO  class LUMAeCommerce.Subscribe - Subscribed successfully
+14:10:04.457 [main]INFO  class LUMAeCommerce.Subscribe - Closed the browser
+14:10:04.503 [main]INFO  class LUMAeCommerce.EditAccount - New report : Checking EditAccount Functionality
+14:10:04.543 [main]INFO  class LUMAeCommerce.EditAccount - Fetched the required sheet from excel file
+14:10:04.545 [main]INFO  class LUMAeCommerce.EditAccount - Loaded locators from .properties file
+14:10:04.545 [main]INFO  class LUMAeCommerce.EditAccount - Running EditAccount script
+14:10:11.887 [main]INFO  class LUMAeCommerce.EditAccount - Opening the browser
+14:10:26.110 [main]INFO  class LUMAeCommerce.EditAccount - Account edited successfully
+14:10:29.692 [main]INFO  class LUMAeCommerce.EditAccount - Closed the browser
+14:10:29.746 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+14:10:29.779 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+14:10:29.780 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+14:10:29.780 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+14:10:37.625 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+14:10:50.615 [main]INFO  class LUMAeCommerce.AddToWishlist - New report : Checking AddToWishlist Functionality
+14:10:50.740 [main]INFO  class LUMAeCommerce.AddToWishlist - Fetched the required sheet from excel file
+14:10:50.742 [main]INFO  class LUMAeCommerce.AddToWishlist - Loaded locators from .properties file
+14:10:50.742 [main]INFO  class LUMAeCommerce.AddToWishlist - Running AddToWishlist script
+14:10:58.057 [main]INFO  class LUMAeCommerce.AddToWishlist - Opening the browser
+14:11:15.363 [main]INFO  class LUMAeCommerce.AddToWishlist - Item added to Wishlist successfully
+14:11:18.891 [main]INFO  class LUMAeCommerce.AddToWishlist - Closed the browser
+14:11:18.976 [main]INFO  class LUMAeCommerce.WishlistToCart - New report : Checking WishlistToCart Functionality
+14:11:19.034 [main]INFO  class LUMAeCommerce.WishlistToCart - Fetched the required sheet from excel file
+14:11:19.037 [main]INFO  class LUMAeCommerce.WishlistToCart - Loaded locators from .properties file
+14:11:19.037 [main]INFO  class LUMAeCommerce.WishlistToCart - Running WishlistToCart script
+14:11:26.481 [main]INFO  class LUMAeCommerce.WishlistToCart - Opening the browser
+14:11:44.078 [main]INFO  class LUMAeCommerce.WishlistToCart - Product successfully moved from wishlist to cart
+14:11:47.766 [main]INFO  class LUMAeCommerce.WishlistToCart - Closed the browser
+14:11:47.880 [main]INFO  class LUMAeCommerce.DeleteFromCart - New report : Checking DeleteFromCart Functionality
+14:11:47.934 [main]INFO  class LUMAeCommerce.DeleteFromCart - Fetched the required sheet from excel file
+14:11:47.936 [main]INFO  class LUMAeCommerce.DeleteFromCart - Loaded locators from .properties file
+14:11:47.937 [main]INFO  class LUMAeCommerce.DeleteFromCart - Running DeleteFromCart script
+14:11:55.882 [main]INFO  class LUMAeCommerce.DeleteFromCart - Opening the browser
+14:12:15.871 [main]INFO  class LUMAeCommerce.DeleteFromCart - Item Deleted from cart successfully
+14:12:19.582 [main]INFO  class LUMAeCommerce.DeleteFromCart - Closed the browser
+15:04:30.426 [main]INFO  class LUMAeCommerce.AddToCart - Extent report initialized
+15:04:30.439 [main]INFO  class LUMAeCommerce.AddToCart - New report : Checking AddToCart Functionality
+15:04:31.668 [main]INFO  class LUMAeCommerce.AddToCart - Fetched the required sheet from excel file
+15:04:31.671 [main]INFO  class LUMAeCommerce.AddToCart - Loaded locators from .properties file
+15:04:31.671 [main]INFO  class LUMAeCommerce.AddToCart - Running AddToCart script
+15:04:44.182 [main]INFO  class LUMAeCommerce.AddToCart - Opening the browser
+15:04:57.505 [main]INFO  class LUMAeCommerce.AddToCart - Item added to cart successfully
+15:05:01.135 [main]INFO  class LUMAeCommerce.AddToCart - Closed the browser
